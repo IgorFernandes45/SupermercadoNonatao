@@ -1,0 +1,6 @@
+# fotos originais em alta resolução (36-41 MB cada); as versões otimizadas ficam em site/assets
+design/atriz*.jpeg
+# material de apoio com conversa pessoal
+informacao/
+.vercel/
+node_modules/
